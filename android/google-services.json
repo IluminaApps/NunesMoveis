@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954686875988",
+    "firebase_url": "https://nunes-moveis.firebaseio.com",
+    "project_id": "nunes-moveis",
+    "storage_bucket": "nunes-moveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954686875988:android:ab00f8ede38b0bdaa200c1",
+        "android_client_info": {
+          "package_name": "desenvolvimento.app.apk.com.nunes_moveis_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954686875988-ck7li85nrnmc76bkuovi48uj91oblj5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1KvCqL0Ypr0kcjo1-si_4xoBuEelxJZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954686875988-ck7li85nrnmc76bkuovi48uj91oblj5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
